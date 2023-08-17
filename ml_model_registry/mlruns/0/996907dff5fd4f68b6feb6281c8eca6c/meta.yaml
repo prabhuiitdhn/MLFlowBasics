@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_model_registry/mlruns/0/996907dff5fd4f68b6feb6281c8eca6c/artifacts
+end_time: 1692115211449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 996907dff5fd4f68b6feb6281c8eca6c
+run_name: puzzled-ape-563
+run_uuid: 996907dff5fd4f68b6feb6281c8eca6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692115209086
+status: 3
+tags: []
+user_id: uib43225

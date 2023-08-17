@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_tracking/mlruns/0/fa3857a8a6a240f880bba1c31185dc91/artifacts
+end_time: 1692027544711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa3857a8a6a240f880bba1c31185dc91
+run_name: angry-penguin-183
+run_uuid: fa3857a8a6a240f880bba1c31185dc91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692027542473
+status: 3
+tags: []
+user_id: uib43225

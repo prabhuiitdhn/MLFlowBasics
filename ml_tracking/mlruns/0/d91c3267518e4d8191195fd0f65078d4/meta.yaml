@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_tracking/mlruns/0/d91c3267518e4d8191195fd0f65078d4/artifacts
+end_time: 1692027411662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d91c3267518e4d8191195fd0f65078d4
+run_name: funny-snake-637
+run_uuid: d91c3267518e4d8191195fd0f65078d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692027409437
+status: 3
+tags: []
+user_id: uib43225

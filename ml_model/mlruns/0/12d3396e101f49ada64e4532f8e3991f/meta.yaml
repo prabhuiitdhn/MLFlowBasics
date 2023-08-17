@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_model/mlruns/0/12d3396e101f49ada64e4532f8e3991f/artifacts
+end_time: 1692112485626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12d3396e101f49ada64e4532f8e3991f
+run_name: clean-hawk-655
+run_uuid: 12d3396e101f49ada64e4532f8e3991f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692112483088
+status: 3
+tags: []
+user_id: uib43225

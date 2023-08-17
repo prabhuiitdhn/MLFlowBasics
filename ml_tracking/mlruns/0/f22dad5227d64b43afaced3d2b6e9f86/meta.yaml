@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_tracking/mlruns/0/f22dad5227d64b43afaced3d2b6e9f86/artifacts
+end_time: 1692011268105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f22dad5227d64b43afaced3d2b6e9f86
+run_name: merciful-hog-674
+run_uuid: f22dad5227d64b43afaced3d2b6e9f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692011265926
+status: 3
+tags: []
+user_id: uib43225

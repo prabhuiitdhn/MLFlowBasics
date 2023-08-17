@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_tracking/mlruns/0/7e10461e11654a508d0e232617fbfb5b/artifacts
+end_time: 1692027401327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e10461e11654a508d0e232617fbfb5b
+run_name: gifted-toad-969
+run_uuid: 7e10461e11654a508d0e232617fbfb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692027399089
+status: 3
+tags: []
+user_id: uib43225

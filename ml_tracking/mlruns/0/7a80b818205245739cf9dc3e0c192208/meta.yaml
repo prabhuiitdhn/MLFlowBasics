@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_tracking/mlruns/0/7a80b818205245739cf9dc3e0c192208/artifacts
+end_time: 1692022662358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a80b818205245739cf9dc3e0c192208
+run_name: gregarious-lamb-510
+run_uuid: 7a80b818205245739cf9dc3e0c192208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692022659999
+status: 3
+tags: []
+user_id: uib43225

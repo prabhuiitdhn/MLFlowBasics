@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1692115211457
+current_stage: Staging
+description: null
+last_updated_timestamp: 1692115745618
+name: sk-learn-random-forest-reg
+run_id: 52aeb4724ad44983bc3637a7fcb89956
+run_link: null
+source: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_model_registry/mlruns/0/52aeb4724ad44983bc3637a7fcb89956/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

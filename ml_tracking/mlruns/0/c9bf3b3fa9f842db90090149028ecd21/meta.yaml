@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_tracking/mlruns/0/c9bf3b3fa9f842db90090149028ecd21/artifacts
+end_time: 1692027349803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9bf3b3fa9f842db90090149028ecd21
+run_name: efficient-sloth-712
+run_uuid: c9bf3b3fa9f842db90090149028ecd21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692027347569
+status: 3
+tags: []
+user_id: uib43225
