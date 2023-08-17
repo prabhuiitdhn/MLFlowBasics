@@ -1,6 +1,8 @@
 MLFLOW: An open source platform for the machine learning lifecycle.
 
-https://mlflow.org/docs/latest/quickstart.html
+Official Link: https://mlflow.org/docs/latest/quickstart.html
+
+MLFLow playlist [Recommended]: https://www.youtube.com/live/g5ibwiSH1uA?feature=share
 
 Create a new envioronment with python 3.8 (recommended.)
 
