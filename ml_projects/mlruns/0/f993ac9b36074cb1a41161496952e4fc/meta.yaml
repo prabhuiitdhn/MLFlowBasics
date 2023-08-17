@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uib43225/PycharmProjects/DSAlgo/CodingPractice/MLflow/ml_projects/mlruns/0/f993ac9b36074cb1a41161496952e4fc/artifacts
+end_time: 1692104031747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f993ac9b36074cb1a41161496952e4fc
+run_name: unique-cub-363
+run_uuid: f993ac9b36074cb1a41161496952e4fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692104029634
+status: 3
+tags: []
+user_id: uib43225
